@@ -4,4 +4,5 @@ resource
 w3shools.com,
 google.com,
 unsplash.com,
-google font
+google font,
+https://isotope.metafizzy.co/#cdn
